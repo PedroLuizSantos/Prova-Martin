@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho1bim", "Trabalho1bim\Trabalho1bim.csproj", "{CB94DB68-D32B-4403-B9C7-77813F049CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB94DB68-D32B-4403-B9C7-77813F049CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB94DB68-D32B-4403-B9C7-77813F049CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB94DB68-D32B-4403-B9C7-77813F049CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB94DB68-D32B-4403-B9C7-77813F049CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3656860C-213C-4003-86B3-03E392DB9A04}
+	EndGlobalSection
+EndGlobal
