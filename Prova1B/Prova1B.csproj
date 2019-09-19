@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB94DB68-D32B-4403-B9C7-77813F049CEE}</ProjectGuid>
+    <ProjectGuid>{3435A377-724C-492F-A313-1BE91303B81E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Trabalho1bim</RootNamespace>
-    <AssemblyName>Trabalho1bim</AssemblyName>
+    <RootNamespace>Prova1B</RootNamespace>
+    <AssemblyName>Prova1B</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
